@@ -1,1 +1,0 @@
-# techkriti_TIC
