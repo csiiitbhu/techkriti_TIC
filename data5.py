@@ -8,7 +8,7 @@ import asyncio
 
 logging.basicConfig(level=logging.INFO)
 
-TOKEN = "8672858511:AAEgGzzO5gdzgLxUkWk0-iZ4UjA5yHhOJp8"  # ⚠️ Replace with new token
+TOKEN = "Token_Bot"  # ⚠️ Replace with new token
 
 # 📦 Global buffer
 message_buffer = []
